@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/replugin-host-lib/replugin-host-lib.iml" filepath="$PROJECT_DIR$/replugin-host-lib/replugin-host-lib.iml" group="replugin-host-library/replugin-host-lib" />
-      <module fileurl="file://$PROJECT_DIR$/replugin-host-library.iml" filepath="$PROJECT_DIR$/replugin-host-library.iml" group="replugin-host-library" />
+      <module fileurl="file://$PROJECT_DIR$/HostLib.iml" filepath="$PROJECT_DIR$/HostLib.iml" group="HostLib" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="HostLib/app" />
+      <module fileurl="file://$PROJECT_DIR$/hostLib/hostLib.iml" filepath="$PROJECT_DIR$/hostLib/hostLib.iml" group="HostLib/hostLib" />
     </modules>
   </component>
 </project>

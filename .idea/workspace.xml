@@ -1,7 +1,326 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9975e322-5b0b-46eb-b62d-5d3604c8eff6" name="Default Changelist" comment="" />
+    <list default="true" id="9975e322-5b0b-46eb-b62d-5d3604c8eff6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_25_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/huotun/app/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huotun/app/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/huotun/app/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-14-48-17-768.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-14-53-58-252.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-14-56-19-882.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-14-59-00-204.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-14-59-29-614.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-14-59-55-209.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/loader2/IPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/loader2/IPluginClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/loader2/IPluginHost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/loader2/mgr/IServiceConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/loader2/sp/IPref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/mobilesafe/svcmanager/IServiceChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/replugin/IBinderGetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/replugin/component/service/server/IPluginServiceServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/aidl/debug/com/qihoo360/replugin/packages/IPluginManagerServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/build/generated/source/buildConfig/debug/com/qihoo360/mobilesafe/core/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostLib/hostLib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-13-55-51-105.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-13-56-29-198.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-13-57-02-119.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-13-57-21-329.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2020-05-28-14-11-21-146.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/bintray.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/bintray.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/jcenter-build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/replugin-host-lib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/replugin-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/replugin-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/loader2/IPlugin.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/loader2/IPlugin.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/loader2/IPluginClient.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/loader2/IPluginClient.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/loader2/IPluginHost.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/loader2/IPluginHost.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/loader2/PluginBinderInfo.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/loader2/PluginBinderInfo.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/loader2/mgr/IServiceConnection.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/loader2/mgr/IServiceConnection.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/loader2/sp/IPref.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/loader2/sp/IPref.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/mobilesafe/svcmanager/IServiceChannel.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/mobilesafe/svcmanager/IServiceChannel.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/replugin/IBinderGetter.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/replugin/IBinderGetter.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/replugin/component/service/server/IPluginServiceServer.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/replugin/component/service/server/IPluginServiceServer.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/replugin/model/PluginInfo.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/replugin/model/PluginInfo.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/replugin/packages/IPluginManagerServer.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/replugin/packages/IPluginManagerServer.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/aidl/com/qihoo360/replugin/packages/PluginRunningList.aidl" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/aidl/com/qihoo360/replugin/packages/PluginRunningList.aidl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/i/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/i/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/i/Factory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/i/Factory2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/i/IModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/i/IModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/i/IPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/i/IPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/i/IPluginManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/i/IPluginManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader/utils/PackageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader/utils/PackageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader/utils/PatchClassLoaderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader/utils/PatchClassLoaderUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader/utils/ProcessLocker.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader/utils/ProcessLocker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader/utils/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader/utils/SysUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader/utils/SysUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader/utils2/FilePermissionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader/utils2/FilePermissionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/BinderCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/BinderCursor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/BuildCompat.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/BuildCompat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/CertUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/CertUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/DumpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/DumpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/Finder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/FinderBuiltin.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/FinderBuiltin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/LaunchModeStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/LaunchModeStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/MP.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/MP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PMF.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PMF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/Plugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/Plugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginBinderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginBinderInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginCommImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginCommImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginContainers.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginContainers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginDesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginDesc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginIntent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginLibraryInternalProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginLibraryInternalProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginNativeLibsHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginNativeLibsHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginProcessMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginProcessMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginProcessPer.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginProcessPer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginProviderStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginProviderStub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginStatusController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginStatusController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PluginTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PluginTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PmBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PmBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/PmHostSvc.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/PmHostSvc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/ProcessStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/ProcessStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/StubProcessManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/StubProcessManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/TaskAffinityStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/TaskAffinityStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/V5FileInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/V5FileInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/V5Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/V5Finder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/VMRuntimeCompat.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/VMRuntimeCompat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/alc/ActivityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/alc/ActivityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/alc/IActivityWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/alc/IActivityWatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/mgr/PluginProviderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/mgr/PluginProviderClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/mgr/PluginServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/mgr/PluginServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/loader2/sp/PrefImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/loader2/sp/PrefImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/api/AppVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/api/AppVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/api/IPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/api/IPC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/api/Intents.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/api/Intents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/api/Pref.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/api/Pref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/api/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/api/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/loader/a/DummyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/loader/a/DummyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/loader/p/DummyProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/loader/p/DummyProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/loader/s/DummyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/loader/s/DummyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/parser/manifest/ManifestParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/parser/manifest/ManifestParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/parser/manifest/XmlHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/parser/manifest/XmlHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/parser/manifest/bean/ComponentBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/parser/manifest/bean/ComponentBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/parser/manifest/bean/DataBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/parser/manifest/bean/DataBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ParcelBinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ParcelBinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/PluginServiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/PluginServiceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/PluginServiceRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/PluginServiceRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/PluginServiceReferenceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/PluginServiceReferenceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/QihooServiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/QihooServiceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ServiceChannelCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ServiceChannelCursor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ServiceChannelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ServiceChannelImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ServiceProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ServiceProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ServiceWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/mobilesafe/svcmanager/ServiceWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ContextInjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ContextInjector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/DefaultRePluginCallbacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/DefaultRePluginCallbacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/DefaultRePluginEventCallbacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/DefaultRePluginEventCallbacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/IHostBinderFetcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/IHostBinderFetcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/PluginDexClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/PluginDexClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/PluginDexClassLoaderPatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/PluginDexClassLoaderPatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/RePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/RePlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/RePluginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/RePluginApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/RePluginCallbacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/RePluginCallbacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/RePluginClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/RePluginClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/RePluginConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/RePluginConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/RePluginConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/RePluginConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/RePluginEventCallbacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/RePluginEventCallbacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/RePluginInternal.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/RePluginInternal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/base/AMSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/base/AMSUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/base/IPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/base/IPC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/base/LocalBroadcastHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/base/LocalBroadcastHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/base/ThreadUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/base/ThreadUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/ComponentList.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/ComponentList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/activity/ActivityInjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/activity/ActivityInjector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/activity/DynamicClassProxyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/activity/DynamicClassProxyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/app/PluginApplicationClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/app/PluginApplicationClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/dummy/DummyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/dummy/DummyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/dummy/DummyProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/dummy/DummyProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/dummy/DummyReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/dummy/DummyReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/dummy/DummyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/dummy/DummyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/dummy/ForwardActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/dummy/ForwardActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/PluginProcessHost.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/PluginProcessHost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderLoader0.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderLoader0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderLoader1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderLoader1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderP0.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderP0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderP1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderP2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderPersist.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderPersist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/process/ProcessPitProviderUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderP0.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderP0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderP1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderP2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderPersist.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderPersist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginPitProviderUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginProviderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginProviderClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginProviderClient2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginProviderClient2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/provider/PluginProviderHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/provider/PluginProviderHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/receiver/PluginReceiverHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/receiver/PluginReceiverHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/receiver/PluginReceiverProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/receiver/PluginReceiverProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/PluginServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/PluginServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/PluginServiceDispatcherManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/PluginServiceDispatcherManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/PluginServiceServerFetcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/PluginServiceServerFetcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/ServiceDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/ServiceDispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/server/ConnectionBindRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/server/ConnectionBindRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/server/IntentBindRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/server/IntentBindRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/server/PluginPitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/server/PluginPitService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/server/PluginServiceServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/server/PluginServiceServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/server/ProcessBindRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/server/ProcessBindRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/server/ProcessRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/server/ProcessRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/service/server/ServiceRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/service/server/ServiceRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/utils/ApkCommentReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/utils/ApkCommentReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/utils/IntentMatcherHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/utils/IntentMatcherHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/component/utils/PluginClientHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/component/utils/PluginClientHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/debugger/DebuggerReceivers.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/debugger/DebuggerReceivers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/AbstractApkParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/AbstractApkParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/ApkParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/ApkParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/exception/ParserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/exception/ParserException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/parser/BinaryXmlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/parser/BinaryXmlParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/parser/StringPoolEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/parser/StringPoolEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/parser/XmlNamespaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/parser/XmlNamespaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/parser/XmlStreamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/parser/XmlStreamer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/parser/XmlTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/parser/XmlTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/ChunkHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/ChunkHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/ChunkType.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/ChunkType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/ResourceValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/ResourceValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/StringPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/StringPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/StringPoolHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/StringPoolHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/Attribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/Attribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/Attributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/Attributes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/NullHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/NullHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNamespaceEndTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNamespaceEndTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNamespaceStartTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNamespaceStartTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNodeEndTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNodeEndTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNodeHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNodeHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNodeStartTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlNodeStartTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlResourceMapHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/struct/xml/XmlResourceMapHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/Buffers.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/Buffers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/ParseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/ParseUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/AggregateTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/AggregateTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/CharSequenceTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/CharSequenceTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/CodePointTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/CodePointTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/EntityArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/EntityArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/LookupTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/LookupTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/NumericEntityEscaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/NumericEntityEscaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/UnicodeUnpairedSurrogateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/UnicodeUnpairedSurrogateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/XmlEscaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/ext/parser/utils/xml/XmlEscaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/helper/HostConfigHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/helper/HostConfigHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/helper/JSONHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/helper/JSONHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/helper/LogDebug.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/helper/LogDebug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/helper/LogRelease.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/helper/LogRelease.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/model/PluginInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/model/PluginInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/model/PluginInfoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/model/PluginInfoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/packages/PluginFastInstallProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/packages/PluginFastInstallProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/packages/PluginFastInstallProviderProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/packages/PluginFastInstallProviderProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/packages/PluginInfoUpdater.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/packages/PluginInfoUpdater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/packages/PluginManagerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/packages/PluginManagerProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/packages/PluginManagerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/packages/PluginManagerServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/packages/PluginPublishFileGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/packages/PluginPublishFileGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/packages/PluginRunningList.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/packages/PluginRunningList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/packages/RePluginInstaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/packages/RePluginInstaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/AssetsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/AssetsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/Charsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/Charsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/CloseableUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/CloseableUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/Dex2OatUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/Dex2OatUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/IOUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/IOUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/InterpretDex2OatHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/InterpretDex2OatHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/ReflectUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/ReflectUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/StringBuilderWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/StringBuilderWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/Validate.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/Validate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/basic/ArrayMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/basic/ArrayMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/basic/ArraySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/basic/ArraySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/basic/ByteConvertor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/basic/ByteConvertor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/basic/ContainerHelpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/basic/ContainerHelpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/basic/MapCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/basic/MapCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/basic/SecurityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/basic/SecurityUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/basic/SimpleArrayMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/basic/SimpleArrayMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/utils/pkg/PackageFilesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/hostLib/src/main/java/com/qihoo360/replugin/utils/pkg/PackageFilesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +351,6 @@
                 <item name="replugin-host-library" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="replugin-host-library" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -45,10 +358,27 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cWWkAhOIRAavkuckrKfTkABF0o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../SDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/replugin-host-lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.1.4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dev\Android\Project\replugin-host-library\replugin-host-lib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,10 +392,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -107,5 +488,21 @@
       <updated>1590644969422</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
